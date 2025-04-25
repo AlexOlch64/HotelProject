@@ -366,7 +366,7 @@ html{
 }
 
 .accomodation-item-nine{
-    background-image: url(/img/ocr.jpg);
+    background-image: url(../img/ocr.jpg);
 }
 
 .accomodation-text{
@@ -490,7 +490,7 @@ form{
 
 .block-contacts{
     border-radius: 15px;
-    background-image: url(/img/contacts-background.png);
+    background-image: url(../img/contacts-background.png);
     background-color: #fff;
     background-repeat: no-repeat;
     background-position: right;
@@ -565,7 +565,7 @@ form{
     border-radius: 15px;
     background-color: #333333;
     padding: 45px;
-    background-image: url(/img/footer-fon.png);
+    background-image: url(../img/footer-fon.png);
     background-repeat: no-repeat;
     background-size: 200px;
     background-position: 70% 100%;
@@ -616,19 +616,19 @@ form{
 }
 
 .footer-social-icon-xz{
-    background-image: url(/img/footericon.svg);
+    background-image: url(../img/footericon.svg);
     width: 25px;
     height: 25px;
 }
 
 .footer-social-icon-vk{
-    background-image: url(/img/vkicon.svg);
+    background-image: url(../img/vkicon.svg);
     width: 25px;
     height: 25px;
 }
 
 .footer-social-icon-ok{
-    background-image: url(/img/okicon.svg);
+    background-image: url(../img/okicon.svg);
     width: 25px;
     height: 25px;
 }
